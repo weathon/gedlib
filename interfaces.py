@@ -10,7 +10,7 @@ print("Data loaded")
 listID = gedlibpy.get_all_graph_ids()
 gedlibpy.set_edit_cost("CONSTANT")
 gedlibpy.init()
-gedlibpy.set_method("BRANCH_TIGHT", "")
+gedlibpy.set_method("HYBRID", "")
 gedlibpy.init_method()
 # print(gedlibpy.get_graph_name(listID[0]))
 
