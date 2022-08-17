@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<!DOCTYPE gxl>
 <gxl>
 
 <graph id="/home/bgauzere/Datasets/Acyclic/methyl_propyl_ether.ct" edgeids="false" edgemode="undirected">
